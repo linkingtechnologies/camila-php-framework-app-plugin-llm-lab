@@ -93,8 +93,6 @@
               </div>
             </div>
           </div>
-
-          <p class="footer-note">If blocked by CORS, start the server with <span class="mono">--api-key any --cors</span>.</p>
         </div>
       </div>
 
